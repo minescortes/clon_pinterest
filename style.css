@@ -133,6 +133,7 @@ header nav{
     font-weight: bold;
 }
 .oculto1{
+    cursor:pointer;
     position:absolute;
     left:65%;
     bottom:8%;
@@ -146,6 +147,7 @@ header nav{
     display: none;
 }
 .oculto2{
+    cursor:pointer;
     position:absolute;
     left:85%;
     bottom:8%;
