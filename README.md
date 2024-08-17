@@ -3,7 +3,7 @@
 
 Proyecto creado durante el bootcamp de Tecnolochicas PRO, simulando inicio principal de Pinterest.
 
-Podrás encontrarlo aquí [Clon Pinterest](https://github.com/minescortes_pinterest-clone.github.io).
+Podrás encontrarlo aquí [Clon Pinterest](pinterest-clone-navy.vercel.app).
 ### Tecnologías
 
 * HTML
